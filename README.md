@@ -214,8 +214,8 @@ for generating intelligent summaries from doctor's interaction notes.
 
 ## Author
 
-Mohit Raj
+Sumit Singh
 
-B.Tech CSE
+B.Tech Information Technology
 
 Full Stack Developer
