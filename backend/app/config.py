@@ -1,0 +1,1 @@
+DATABASE_URL = "mysql+pymysql://root:root123@127.0.0.1:3306/ai_first_crm"
